@@ -1,4 +1,4 @@
-# react-native-countdown
+# react-native-popcountdown
 
 React Native PopCountDown
 
